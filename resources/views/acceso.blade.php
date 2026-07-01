@@ -48,7 +48,7 @@
             </div>
             <button class="mt-2 cursor-pointer rounded bg-green-800 px-4 py-2 text-white transition hover:bg-green-700" type="submit">Login</button>
         </form>
-        <div class="mt-4 text-center">
+        <div class="mt-3 text-center">
             <a href="" class="text-gray-600 hover:text-green-600 text-sm">¿Olvidaste tu contraseña?</a>
             <p class="text-gray-500 text-sm">Todos los derechos reservados Jaguar 2026 </p>
         </div>
